@@ -8,8 +8,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,figma,firebase,nodejs,expressjs,mongodb&perline=6)](https://skillicons.dev)
 
 # status
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassan4np&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassan4np&theme=blue_green&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan4np&theme=blue_green)
 
 #### Current overview
 - 🔭 I’m currently working on ...
