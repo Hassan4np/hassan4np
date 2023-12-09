@@ -11,7 +11,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,figma,firebase,nodejs,expressjs,mongodb&perline=6)
 
 # Projects:-
-###  Assignment : -.
+###  Assignment : -
 - user submit assignment
 - user add assigmentuser 
 - Admin Provide Marks
@@ -21,11 +21,12 @@
 - User checkout Advertisement
 - User can agent when admin approved
 - Live link : https://b8a12-project.web.app
-### Event Management : -
-- User can throw  Anavarsity party.
-- User can buy special party Charity party, Dance party.
+### Brand shop : -
+- User can buy Brand shop Products.
+- User add to cart projects
+- User can Add Products
 
-- Live link : https://personal-project-1daba.web.app
+- Live link : https://dinamic-password-react-project.web.app
 
 #### Reach me Out
 [![An old rock in the desert](https://raw.githubusercontent.com/Hassan4np/hassan4np/main/assets/bannar/logo.png  "Hassan Ali, Jashore, Bangladesh")](https://www.linkedin.com/in/hassan-ali-604934244/)
