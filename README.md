@@ -11,6 +11,14 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,figma,firebase,nodejs,expressjs,mongodb&perline=6)
 
 # Projects:-
+### E-commerce : -
+- User can buy Products .
+- User add to cart projects
+- User can checkout Products
+- Live link : https://enchanting-wisp-d0c7ab.netlify.app
+- client link : https://github.com/Hassan4np/Frouts-client
+- Server link: https://github.com/Hassan4np/Frouts-server
+
 ###  Assignment : -
 - user submit assignment
 - user add assigmentuser 
@@ -26,13 +34,7 @@
 - Live link : https://b8a12-project.web.app
 - client link : https://github.com/Hassan4np/B8A12-CLIENT-2
 - Server link:  https://github.com/Hassan4np/B8A12-CLIENT-2
-### Brand shop : -
-- User can buy Brand shop Products.
-- User add to cart projects
-- User can Add Products
-- Live link : https://dinamic-password-react-project.web.app
-- client link : https://github.com/Hassan4np/Brand-shop-cliendSide-2
-- Server link: https://github.com/Hassan4np/Brand-shop-bankend-1
+
 
 
 
