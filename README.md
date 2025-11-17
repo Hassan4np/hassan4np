@@ -1,6 +1,6 @@
 ![An old rock in the desert](https://raw.githubusercontent.com/Hassan4np/hassan4np/main/assets/bannar/Hassan%20ali.png "Hassan Ali, Jashore, Bangladesh")
 ## About us
-## I am a professional font end developer. Front-End & E-Commerce Developer with 3+ years of freelance experience building high-performance, SEO-optimized web applications using React.js, Next.js, and Shopify Liquid. Specialized in creating responsive UIs, custom Shopify themes, and WooCommerce stores for SaaS, agency, and affiliate clients. Proven expertise in performance optimization, API integration, and delivering conversion-focused digital solutions.
+#### I am a professional font end developer. Front-End & E-Commerce Developer with 3+ years of freelance experience building high-performance, SEO-optimized web applications using React.js, Next.js, and Shopify Liquid. Specialized in creating responsive UIs, custom Shopify themes, and WooCommerce stores for SaaS, agency, and affiliate clients. Proven expertise in performance optimization, API integration, and delivering conversion-focused digital solutions.
 
 # Current Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan4np&theme=blue_green)
