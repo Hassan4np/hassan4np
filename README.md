@@ -10,34 +10,6 @@
 # Technologies Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,figma,firebase,nodejs,expressjs,mongodb&perline=6)
 
-# Projects:-
-### E-commerce : -
-- User can buy Products .
-- User add to cart projects
-- User can checkout Products
-- Live link : https://enchanting-wisp-d0c7ab.netlify.app
-- client link : https://github.com/Hassan4np/Frouts-client
-- Server link: https://github.com/Hassan4np/Frouts-server
-
-###  Assignment : -
-- user submit assignment
-- user add assigmentuser 
-- Admin Provide Marks
-- Live link : https://auth-project-4064d.web.app
-- client link : https://github.com/Hassan4np/Group-Stady-Client-Side-2
-- Servere link :  https://github.com/Hassan4np/Group-Stady-backend-Side-1
-
-### Advertisement : -
-- User Buy Advertisemne
-- User checkout Advertisement
-- User can agent when admin approved
-- Live link : https://b8a12-project.web.app
-- client link : https://github.com/Hassan4np/B8A12-CLIENT-2
-- Server link:  https://github.com/Hassan4np/B8A12-BACKEND-1
-
-
-
-
 #### Reach me Out
 [![An old rock in the desert](https://raw.githubusercontent.com/Hassan4np/hassan4np/main/assets/bannar/logo.png  "Hassan Ali, Jashore, Bangladesh")](https://www.linkedin.com/in/hassan-ali-604934244/)
 
